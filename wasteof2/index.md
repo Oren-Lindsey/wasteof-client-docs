@@ -7,17 +7,17 @@ const wasteof2 = new Wasteof2()
 
 ## Methods
 
-[posts](https://oren-lindsey.github.io/wasteof-client-docs/posts)
+[posts](https://oren-lindsey.github.io/wasteof-client-docs/wasteof2/posts)
 
-[users](https://oren-lindsey.github.io/wasteof-client-docs/users)
+[users](https://oren-lindsey.github.io/wasteof-client-docs/wasteof2/users)
 
-[explore](https://oren-lindsey.github.io/wasteof-client-docs/explore)
+[explore](https://oren-lindsey.github.io/wasteof-client-docs/wasteof2/explore)
 
-[search](https://oren-lindsey.github.io/wasteof-client-docs/search)
+[search](https://oren-lindsey.github.io/wasteof-client-docs/wasteof2/search)
 
-[wall](https://oren-lindsey.github.io/wasteof-client-docs/wall)
+[wall](https://oren-lindsey.github.io/wasteof-client-docs/wasteof2/wall)
 
-[settings](https://oren-lindsey.github.io/wasteof-client-docs/settings)
+[settings](https://oren-lindsey.github.io/wasteof-client-docs/wasteof2/settings)
 
-[miscellaneous](https://oren-lindsey.github.io/wasteof-client-docs/misc)
+[miscellaneous](https://oren-lindsey.github.io/wasteof-client-docs/wasteof2/misc)
 
