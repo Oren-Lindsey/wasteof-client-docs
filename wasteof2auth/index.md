@@ -1,8 +1,8 @@
-# Wasteof2
+# Wasteof2Auth
 
 ```
-import { Wasteof2Athu } from 'wasteof-client
-const wasteof2 = new Wasteof2(username, password)
+import { Wasteof2Auth } from 'wasteof-client
+const wasteof2 = new Wasteof2Auth(username, password)
 ```
 
 It has 2 constructors:

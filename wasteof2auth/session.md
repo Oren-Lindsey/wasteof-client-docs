@@ -2,10 +2,10 @@
 
 - login `wasteof2.login()`: logs you in using the provided constructors
 
-options: none
+    options: none
 - get session `wasteof2.getSession()`: gets data about the currently logged in account
 
-options: none
+    options: none
 - logout `wasteof2.logout()`: logs you out
 
-options: none
+    options: none
